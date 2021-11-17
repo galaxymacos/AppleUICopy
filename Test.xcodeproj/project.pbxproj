@@ -11,6 +11,7 @@
 		2BD4EC8827454AB20065A27C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BD4EC8727454AB20065A27C /* ContentView.swift */; };
 		2BD4EC8A27454AB30065A27C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BD4EC8927454AB30065A27C /* Assets.xcassets */; };
 		2BD4EC8D27454AB30065A27C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BD4EC8C27454AB30065A27C /* Preview Assets.xcassets */; };
+		2BD4EC9427454B280065A27C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BD4EC9327454B280065A27C /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2BD4EC8727454AB20065A27C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2BD4EC8927454AB30065A27C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2BD4EC8C27454AB30065A27C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2BD4EC9327454B280065A27C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2BD4EC8527454AB20065A27C /* TestApp.swift */,
 				2BD4EC8727454AB20065A27C /* ContentView.swift */,
+				2BD4EC9327454B280065A27C /* SettingsView.swift */,
 				2BD4EC8927454AB30065A27C /* Assets.xcassets */,
 				2BD4EC8B27454AB30065A27C /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BD4EC9427454B280065A27C /* SettingsView.swift in Sources */,
 				2BD4EC8827454AB20065A27C /* ContentView.swift in Sources */,
 				2BD4EC8627454AB20065A27C /* TestApp.swift in Sources */,
 			);
